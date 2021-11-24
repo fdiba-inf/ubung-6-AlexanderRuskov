@@ -24,7 +24,7 @@ public class PasswordCheck {
             break;
           }
           boolean digit = Character.isDigit(symbol);
-          if (digit) {git add .
+          if (digit) {
             digitCount++;
           }
         }
