@@ -33,6 +33,6 @@ public class PasswordCheck {
           passValid = true;
         }
       } while (!passValid);
-      System.out.println("Password valid: ");
+      System.out.println("Password valid! ");
     }
 }
